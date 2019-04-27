@@ -1,0 +1,21 @@
+{
+    "name": "alligator",
+    "displayName": "Alligator",
+    "description": "theme like the alligator.io",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Alligator",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Alligator-color-theme.json"
+            }
+        ]
+    }
+}
