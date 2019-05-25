@@ -216,7 +216,8 @@
 				"support.variable.object",
 				"storage.modifier",
 				"meta.decorator",
-				"support.variable.property"
+				"support.variable.property",
+				"keyword"
 			],
 			"settings": {
 				"foreground": "#e84279",

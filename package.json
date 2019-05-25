@@ -1,7 +1,9 @@
 {
     "name": "alligator",
+    "publisher": "alligator-vscode-color-theme",
     "displayName": "Alligator",
     "description": "theme like the alligator.io",
+    "icon": "themes/alligator-logo3.png",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.33.0"
@@ -9,6 +11,10 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lianghx-319/Alligator-color-theme.git"
+    },
     "contributes": {
         "themes": [
             {
