@@ -3,8 +3,8 @@
     "publisher": "alligator-vscode-color-theme",
     "displayName": "Alligator",
     "description": "theme like the alligator.io",
-    "icon": "themes/alligator-logo3.png",
-    "version": "0.0.1",
+    "icon": "themes/hf71Z251.png",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.33.0"
     },
@@ -21,6 +21,26 @@
                 "label": "Alligator",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Alligator-color-theme.json"
+            },
+            {
+                "label": "alligator-dark",
+                "uiTheme": "vs",
+                "path": "./themes/alligator-dark-color-theme.json"
+            },
+            {
+                "label": "alligator-light",
+                "uiTheme": "vs",
+                "path": "./themes/alligator-light-color-theme.json"
+            },
+            {
+                "label": "alligator-solarized-light",
+                "uiTheme": "vs",
+                "path": "./themes/alligator-solarized-light-color-theme.json"
+            },
+            {
+                "label": "alligator-solarized-dark",
+                "uiTheme": "vs",
+                "path": "./themes/alligator-solarized-dark-color-theme.json"
             }
         ]
     }
