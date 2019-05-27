@@ -18,14 +18,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Alligator",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Alligator-color-theme.json"
-            },
-            {
                 "label": "alligator-dark",
                 "uiTheme": "vs",
                 "path": "./themes/alligator-dark-color-theme.json"
+            },
+            {
+                "label": "Alligator",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Alligator-color-theme.json"
             },
             {
                 "label": "alligator-light",
