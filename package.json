@@ -5,6 +5,7 @@
     "description": "theme like the alligator.io",
     "icon": "themes/hf71Z251.png",
     "version": "1.3.0",
+    "license": "MIT",
     "scripts": {
         "package": "vsce package",
         "publish": "vsce publish"
