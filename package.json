@@ -5,6 +5,10 @@
     "description": "theme like the alligator.io",
     "icon": "themes/hf71Z251.png",
     "version": "1.2.0",
+    "scripts": {
+        "package": "vsce package",
+        "publish": "vsce publish"
+    },
     "engines": {
         "vscode": "^1.33.0"
     },
@@ -19,13 +23,8 @@
         "themes": [
             {
                 "label": "alligator-dark",
-                "uiTheme": "vs",
-                "path": "./themes/alligator-dark-color-theme.json"
-            },
-            {
-                "label": "Alligator",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Alligator-color-theme.json"
+                "path": "./themes/alligator-dark-color-theme.json"
             },
             {
                 "label": "alligator-light",
@@ -39,7 +38,7 @@
             },
             {
                 "label": "alligator-solarized-dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/alligator-solarized-dark-color-theme.json"
             }
         ]

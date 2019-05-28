@@ -5,7 +5,7 @@
 		"editor.background": "#1A1D24",
 		"editor.foreground": "#FEE6C0",
 		"focusBorder": "#1A1C23",
-    "foreground": "#D5D8DA",
+    "foreground": "#FEE6C0",
     "widget.shadow": "#16161C",
     "selection.background": "#6C6F9380",
     "errorForeground": "#F43E5C",
